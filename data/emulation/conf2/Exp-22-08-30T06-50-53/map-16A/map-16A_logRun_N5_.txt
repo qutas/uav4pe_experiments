@@ -1,0 +1,397 @@
+Using Map: map-16A
+Path published
+Mavros topics loaded
+Request arm_disarm Result: False.
+Waiting for spar...
+waiting for command
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Explore
+received: Explore
+Request arm_disarm Result: False.
+Takeoff in progress...
+received: Explore
+Take-off complete!
+Moving to un-explored cell: [8, 8]
+Explored: 0.0 %
+Reached cell [-0.0, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 7]
+Explored: 0.0 %
+received: Stay on ground
+Check if landedexplore_state, Skipping command. Spar state: 4.
+Going to a safe zone... 
+
+Landing...
+Request arm_disarm Result: True.
+Landed.
+received: Explore
+Request arm_disarm Result: False.
+Takeoff in progress...
+received: Explore
+Take-off complete!
+Moving to un-explored cell: [11, 9]
+Explored: 0.0 %
+Reached cell [-0.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X........x.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [9, 8]
+Explored: 0.61 %
+Reached cell [-0.25, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X........x.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [11, 8]
+Explored: 0.61 %
+Reached cell [-0.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X.......xx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [9, 7]
+Explored: 1.22 %
+Reached cell [-0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X.......xx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [11, 7]
+Explored: 1.22 %
+Reached cell [-0.75, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [10, 6]
+Explored: 1.83 %
+received: Land
+Going to a safe zone... explore_state, Skipping command. Spar state: 4.
+
+Landing...
+Request arm_disarm Result: True.
+Landed.
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Inspect
+received: Inspect
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: True.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 1.83 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 6]
+Explored: 1.83 %
+Reached cell [-0.0, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR..GGGG....X
+XRRRR.xGGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 6]
+Explored: 2.44 %
+Reached cell [0.25, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRR.xGGGG....X
+XRRRR..GGGG....X
+XRRRR..GGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [9, 6]
+Explored: 3.05 %
+Reached cell [-0.25, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRR.xGGGG....X
+XRRRR.xGGGG....X
+XRRRR..GGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 5]
+Explored: 3.66 %
+Reached cell [-0.0, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRRxxGGGG....X
+XRRRR.xGGGG....X
+XRRRR..GGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [10, 6]
+Explored: 4.27 %
+Reached cell [-0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRRxxGGGG....X
+XRRRR.xGGGG....X
+XRRRR.xGGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [10, 5]
+Explored: 4.88 %
+Reached cell [-0.5, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRRxxGGGG....X
+XRRRR.xGGGG....X
+XRRRRxxGGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [9, 5]
+Explored: 5.49 %
+Reached cell [-0.25, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRRxxGGGG....X
+XRRRRxxGGGG....X
+XRRRRxxGGGG....X
+X......xxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [11, 6]
+Explored: 6.1 %
+Reached cell [-0.75, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRR.xGGGG....X
+XRRRRxxGGGG....X
+XRRRRxxGGGG....X
+XRRRRxxGGGG....X
+X.....xxxx.....X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [9, 5]
+Explored: 6.71 %
+received: Stay on ground
+Check if landedexplore_state, Skipping command. Spar state: 4.
+Going to a safe zone... 
+
+Landing...
+Request arm_disarm Result: True.
+Landed.
+received: Explore
+Request arm_disarm Result: False.
+Takeoff in progress...
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+Moving to un-explored cell: [7, 7]
+Explored: 6.71 %
+received: Inspect
+received: Explore
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [8, 7]
+Explored: 6.71 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 6.71 %
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 6.71 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [8, 7]
+Explored: 6.71 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 6.71 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 6.71 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [8, 7]
+Explored: 6.71 %
+received: Stay on ground
+Check if landedexplore_state, Skipping command. Spar state: 4.
+Landed.
+
+received: Explore
+Request arm_disarm Result: False.
+Takeoff in progress...
+received: Explore
+Navigation stopped

@@ -1,0 +1,4 @@
+Experiment start time: 2022-09-23 10:22:44.139983
+Experiment  end  time: 2022-09-23 16:17:56.920914
+Experiment  Duration:  5:55:12.780931
+Experiment  maxRunTime:  600

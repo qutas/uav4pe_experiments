@@ -1,0 +1,3315 @@
+Using Map: map-16AD
+Path published
+Mavros topics loaded
+Request arm_disarm Result: False.
+Waiting for spar...
+waiting for command
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+received: Explore
+received: Explore
+Moving to un-explored cell: [8, 8]
+Explored: 0.0 %
+Reached cell [-0.0, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 8]
+Explored: 0.0 %
+Reached cell [-0.0, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 8]
+Explored: 0.0 %
+Reached cell [0.25, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 8]
+Explored: 0.0 %
+Reached cell [0.5, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X.......x......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 7]
+Explored: 0.64 %
+Reached cell [0.5, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X......xx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 9]
+Explored: 1.28 %
+Reached cell [0.5, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 8]
+Explored: 1.92 %
+Reached cell [0.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 10]
+Explored: 2.56 %
+received: Land
+Going to a safe zone... explore_state, Skipping command. Spar state: 4.
+
+Landing...
+Request arm_disarm Result: True.
+Landed.
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [9, 11]
+Explored: 2.56 %
+Reached cell [-0.25, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGGx...X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [10, 11]
+Explored: 3.21 %
+Reached cell [-0.5, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGGx...X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [9, 12]
+Explored: 3.85 %
+Reached cell [-0.25, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 11]
+Explored: 4.49 %
+Reached cell [-0.0, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGGx...X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 10]
+Explored: 5.13 %
+Reached cell [-0.0, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGGx...X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 12]
+Explored: 5.13 %
+Reached cell [-0.0, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGG....X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 11]
+Explored: 5.77 %
+Reached cell [0.25, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGGx...X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [8, 13]
+Explored: 6.41 %
+Reached cell [-0.0, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGGx...X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 12]
+Explored: 7.05 %
+Reached cell [0.25, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 11]
+Explored: 7.69 %
+received: Explore
+Reached cell [0.25, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 13]
+Explored: 7.69 %
+Reached cell [0.25, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx.....X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 12]
+Explored: 8.33 %
+Reached cell [0.5, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx..x..X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 14]
+Explored: 8.97 %
+Reached cell [0.25, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx..x..X
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 13]
+Explored: 9.62 %
+Reached cell [0.5, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx..xx.X
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 12]
+Explored: 10.26 %
+Reached cell [0.5, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx..xx.X
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 12]
+Explored: 10.26 %
+Reached cell [0.5, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx..xx.X
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 14]
+Explored: 10.26 %
+Reached cell [0.5, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x......X
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 13]
+Explored: 10.9 %
+Reached cell [0.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x....x.X
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 14]
+Explored: 11.54 %
+Reached cell [0.75, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 13]
+Explored: 12.18 %
+Reached cell [0.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 13]
+Explored: 12.18 %
+Reached cell [0.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 13]
+Explored: 12.18 %
+Reached cell [0.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 14]
+Explored: 12.18 %
+received: Explore
+Reached cell [1.0, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X.............xX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 13]
+Explored: 12.82 %
+Reached cell [1.0, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 13]
+Explored: 13.46 %
+Reached cell [1.0, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 14]
+Explored: 13.46 %
+Reached cell [1.25, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T..........xX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 13]
+Explored: 14.1 %
+Reached cell [1.25, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 13]
+Explored: 14.74 %
+Reached cell [1.25, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 14]
+Explored: 14.74 %
+Reached cell [1.5, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X.............xX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 13]
+Explored: 15.38 %
+Reached cell [1.5, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 13]
+Explored: 16.03 %
+Reached cell [1.5, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 13]
+Explored: 16.03 %
+Reached cell [1.5, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 14]
+Explored: 16.03 %
+Reached cell [1.75, -1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.............xX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 13]
+Explored: 16.67 %
+Reached cell [1.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X............xxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 13]
+Explored: 17.31 %
+Reached cell [1.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X............xxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 13]
+Explored: 17.31 %
+Reached cell [1.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X............xxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 13]
+Explored: 17.31 %
+Reached cell [1.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X............xxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 13]
+Explored: 17.31 %
+Reached cell [1.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X............xxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 13]
+Explored: 17.31 %
+Reached cell [1.75, -1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X............xxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 12]
+Explored: 17.31 %
+Reached cell [1.75, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X...........xxxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 12]
+Explored: 17.95 %
+received: Explore
+Reached cell [1.75, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X...........xxxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 12]
+Explored: 17.95 %
+Reached cell [1.75, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X...........xxxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 12]
+Explored: 17.95 %
+Reached cell [1.75, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X...........xxxX
+X............xxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 12]
+Explored: 17.95 %
+Reached cell [1.5, -1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X...........xxxX
+X...........xxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 11]
+Explored: 18.59 %
+Reached cell [1.75, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..........xxxxX
+X...........xxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 11]
+Explored: 19.23 %
+Reached cell [1.75, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..........xxxxX
+X...........xxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 11]
+Explored: 19.23 %
+Reached cell [1.75, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..........xxxxX
+X...........xxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 11]
+Explored: 19.23 %
+Reached cell [1.75, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..........xxxxX
+X...........xxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 11]
+Explored: 19.23 %
+Reached cell [1.75, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..........xxxxX
+X...........xxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 11]
+Explored: 19.23 %
+Reached cell [1.5, -0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..........xxxxX
+X..........xxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 10]
+Explored: 19.87 %
+Reached cell [1.75, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.........xxxxxX
+X..........xxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 10]
+Explored: 20.51 %
+Reached cell [1.75, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.........xxxxxX
+X..........xxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 10]
+Explored: 20.51 %
+Reached cell [1.75, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.........xxxxxX
+X..........xxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 10]
+Explored: 20.51 %
+Reached cell [1.75, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.........xxxxxX
+X..........xxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 10]
+Explored: 20.51 %
+Reached cell [1.75, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.........xxxxxX
+X..........xxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 10]
+Explored: 20.51 %
+Reached cell [1.5, -0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.........xxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.15 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.79 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.79 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.79 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.79 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.79 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 9]
+Explored: 21.79 %
+Reached cell [1.75, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X.........xxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [2, 9]
+Explored: 21.79 %
+Reached cell [1.5, -0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X........xxxxxxX
+X........xxxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 8]
+Explored: 22.44 %
+Reached cell [1.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.......xxxxxxxX
+X........xxxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 8]
+Explored: 23.08 %
+Reached cell [1.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.......xxxxxxxX
+X........xxxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 8]
+Explored: 23.08 %
+Reached cell [1.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.......xxxxxxxX
+X........xxxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 8]
+Explored: 23.08 %
+Reached cell [1.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X.......xxxxxxxX
+X........xxxxxxX
+X..T.........xxX
+X............xxX
+X.......x....xxX
+X......xxx..xxxX
+XRRRRRRGGGGxxxxX
+XRRRRRRGGGGxxx.X
+XRRRRRRGGGGxx..X
+XRRRRRRGGGGx...X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [1, 8]
+Explored: 23.08 %
+received: Land
+Going to a safe zone... explore_state, Skipping command. Spar state: 4.
+
+Landing...
+Request arm_disarm Result: True.
+Landed.
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Hover in place
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %received: Explore
+
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Inspect
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+Moving to un-explored cell: [7, 8]
+Explored: 23.08 %
+explore_state, Skipping command. Spar state: 4.
+received: Inspect
+Navigation stopped

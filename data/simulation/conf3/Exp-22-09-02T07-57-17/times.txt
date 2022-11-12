@@ -1,0 +1,3 @@
+Experiment start time: 2022-09-02 07:57:17.009534
+Experiment  end  time: 2022-09-02 20:06:55.032830
+Experiment  Duration:  12:09:38.023296

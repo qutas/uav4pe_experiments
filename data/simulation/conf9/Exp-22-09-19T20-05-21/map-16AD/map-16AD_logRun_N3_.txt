@@ -1,0 +1,1196 @@
+Using Map: map-16AD
+Path published
+Simulator topics loaded
+Request arm_disarm Result: False.
+Waiting for spar...
+waiting for command
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Hover in place
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X..............X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 7]
+Explored: 0.0 %
+Reached cell [0.5, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X......x.......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 0.64 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X.....xx.......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 8]
+Explored: 1.28 %
+Reached cell [0.5, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X..............X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 7]
+Explored: 1.92 %
+Reached cell [0.75, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X......x.......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 6]
+Explored: 2.56 %
+Reached cell [0.75, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.....xx.......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 6]
+Explored: 3.21 %
+Reached cell [0.75, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.....xx.......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 8]
+Explored: 3.21 %
+Reached cell [0.75, -0.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X..............X
+X.....xxx......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 7]
+Explored: 3.85 %
+received: Inspect
+Reached cell [1.0, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X.....xxx......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Inspect
+received: Inspect
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Hover in place
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 4.49 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X.....xxx......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 4.49 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X.....xxx......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 4.49 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X.....xxx......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 4.49 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X.....xxx......X
+X.....xxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 5]
+Explored: 4.49 %
+Reached cell [0.5, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X.....xxx......X
+X....xxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 5]
+Explored: 5.13 %
+Reached cell [0.75, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X....xxxx......X
+X....xxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 4]
+Explored: 5.77 %
+Reached cell [0.5, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X....xxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 4]
+Explored: 6.41 %
+Reached cell [0.75, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 4]
+Explored: 7.05 %
+Reached cell [0.75, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 4]
+Explored: 7.05 %
+Reached cell [0.75, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 4]
+Explored: 7.05 %
+received: Stay on ground
+Check if landedexplore_state, Skipping command. Spar state: 4.
+Going to a safe zone... 
+
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Stay on ground
+Check if landed
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Hover in place
+received: Hover in place
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 7.05 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 7.05 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 7.05 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 7.05 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 7.05 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 5]
+Explored: 7.05 %
+Reached cell [0.75, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 5]
+Explored: 7.05 %
+Reached cell [0.75, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 5]
+Explored: 7.05 %
+Reached cell [0.75, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 5]
+Explored: 7.05 %
+Reached cell [0.75, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X......x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 5]
+Explored: 7.05 %
+Reached cell [1.0, 0.75, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X....x.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 4]
+Explored: 7.69 %
+received: Inspect
+Reached cell [1.0, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X...xx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+received: Inspect
+received: Explore
+Moving to un-explored cell: [4, 4]
+Explored: 8.33 %
+Reached cell [1.0, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..T...........X
+X...xx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 4]
+Explored: 8.33 %
+Reached cell [1.25, 1.0, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..Tx..........X
+X...xx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 3]
+Explored: 8.97 %
+Reached cell [1.0, 1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..Tx..........X
+X..xxx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 3]
+Explored: 9.62 %
+Reached cell [1.25, 1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..xx..........X
+X..xxx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 3]
+Explored: 10.26 %
+Reached cell [1.25, 1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..xx..........X
+X..xxx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 3]
+Explored: 10.26 %
+Reached cell [1.25, 1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..xx..........X
+X..xxx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 3]
+Explored: 10.26 %
+Reached cell [1.25, 1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..xx..........X
+X..xxx.x.......X
+X...xxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 3]
+Explored: 10.26 %
+Reached cell [0.75, 1.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..xx..........X
+X..xxx.x.......X
+X..xxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [4, 2]
+Explored: 10.9 %
+Reached cell [1.0, 1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X..xx..........X
+X.xxxx.x.......X
+X..xxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [3, 2]
+Explored: 11.54 %
+Reached cell [1.25, 1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X..xxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 2]
+Explored: 12.18 %
+received: Inspect
+Reached cell [0.75, 1.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Explore
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+Moving to un-explored cell: [7, 7]
+Explored: 12.82 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 12.82 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 12.82 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [7, 7]
+Explored: 12.82 %
+Reached cell [0.25, 0.25, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 12.82 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 12.82 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 12.82 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [6, 6]
+Explored: 12.82 %
+Reached cell [0.5, 0.5, 1.2, 0.0]
+XXXXXXXXXXXXXXXX
+X..............X
+X..............X
+X.xxx..........X
+X.xxxx.x.......X
+X.xxxxxxx......X
+X...xxxxx......X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+XRRRRRRGGGG....X
+X..............X
+X..............X
+X..............X
+X..............X
+XXXXXXXXXXXXXXXX
+Moving to un-explored cell: [5, 5]
+Explored: 12.82 %
+received: Stay on ground
+Check if landedexplore_state, Skipping command. Spar state: 4.
+Going to a safe zone... 
+
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Stay on ground
+Check if landed
+Landed.
+received: Stay on ground
+Check if landed
+Landed.
+received: Stay on ground
+Check if landed
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Stay on ground
+Check if landed
+Landed.
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Inspect
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Hover in place
+Request arm_disarm Result: False.
+Takeoff in progress...
+Take-off complete!
+received: Inspect
+received: Inspect
+Navigation stopped

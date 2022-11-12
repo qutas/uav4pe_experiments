@@ -1,0 +1,196 @@
+Using Map: map-16AD
+Path published
+Mavros topics loaded
+Request arm_disarm Result: False.
+Waiting for spar...
+waiting for command
+received: Inspect
+Request arm_disarm Result: True.
+Takeoff in progress...
+received: Explore
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Inspect
+Request arm_disarm Result: True.
+Takeoff in progress...
+received: Explore
+received: Explore
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Explore
+received: Inspect
+Request arm_disarm Result: True.
+Request arm_disarm Result: True.
+Takeoff in progress...
+Takeoff in progress...
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Inspect
+Request arm_disarm Result: True.
+Takeoff in progress...
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Explore
+received: Explore
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Inspect
+Request arm_disarm Result: True.
+Takeoff in progress...
+received: Explore
+received: Explore
+received: Inspect
+received: Explore
+received: Explore
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Land
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Explore
+received: Explore
+Request arm_disarm Result: True.
+Takeoff in progress...
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [8, 7]
+Explored: 0.0 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Stay on ground
+Check if landed
+Going to a safe zone... 
+Landing...
+Request arm_disarm Result: False.
+Landed.
+received: Explore
+received: Explore
+Request arm_disarm Result: True.
+Takeoff in progress...
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Explore
+Moving to un-explored cell: [7, 7]
+Explored: 0.0 %
+received: Inspect
+Navigation stopped
